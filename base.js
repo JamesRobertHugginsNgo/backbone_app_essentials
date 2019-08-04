@@ -300,7 +300,6 @@ const BaseModel = Backbone.Model.extend(
 		},
 
 		webStorage: localStorage,
-
 		webStorageKey: null,
 
 		webStorageGet(options) {
